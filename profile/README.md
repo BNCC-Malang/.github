@@ -10,7 +10,7 @@
 <!--   <a href="#">
   <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
   </a> -->
-  <a href"https://vt.tiktok.com/ZSedSdNfu/">
+  <a href="https://vt.tiktok.com/ZSedSdNfu/">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
   <a href"#">
